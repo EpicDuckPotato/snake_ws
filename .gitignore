@@ -1,0 +1,7 @@
+build
+devel
+src/CMakeLists.txt
+src/hebi_cpp_api_ros
+src/realsense_gazebo_plugin
+src/hebiros
+.catkin_workspace
