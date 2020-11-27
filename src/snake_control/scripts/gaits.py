@@ -45,15 +45,15 @@ class JointCmds:
         A_odd = 0.7
 
         # direction
-        d = 3
+        d = 1
 
         ## rolling gait ##
         '''
         spat_freq = 0
         TPO = np.pi/2
         A_even = 0.25
-        A_odd - 0.25
-        d = 0.5
+        A_odd = 0.25
+        d = 3
         '''
 
         for i, jnt in enumerate(self.joints_list) :
